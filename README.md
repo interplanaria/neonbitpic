@@ -20,6 +20,11 @@ Now let's try running your own!
 
 # Start your own Bitpic node in 1 minute
 
+Literally takes 1 minute from cloning the project to running your own node.
+
+![bitpic](bitpic.gif)
+
+
 ## Step 0. Install Docker
 
 This app is powered by Docker. All you need is to have Docker installed.
