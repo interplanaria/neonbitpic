@@ -6,7 +6,10 @@ Instantly spin up your own [bitpic.network](https://bitpic.network) node in seco
 
 Powered by [neon planaria](https://neon.planaria.network).
 
-![preview](preview.png)
+Literally takes 1 minute from cloning the project to running your own node.
+
+![bitpic](bitpic.gif)
+
 
 # How it works
 
@@ -17,13 +20,7 @@ Neonbitpic builds the identical state machine as [Gridbitpic](https://github.com
 
 Now let's try running your own!
 
-
 # Start your own Bitpic node in 1 minute
-
-Literally takes 1 minute from cloning the project to running your own node.
-
-![bitpic](bitpic.gif)
-
 
 ## Step 0. Install Docker
 
